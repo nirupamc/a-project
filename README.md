@@ -1,2 +1,2 @@
 # a-project
-agiftfromnirupam
+agiftfromnirupam.netlify.app
