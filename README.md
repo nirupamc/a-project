@@ -1,2 +1,2 @@
 # a-project
-bareminimumm.netlify.app
+bareminimummm.netlify.app
